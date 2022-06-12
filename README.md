@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola 👋, Soy Emanuel Saucedo</h1>
 
-<h3 align="center">Hola! 👋 soy Ema 
+<h3 align="center">
 
 Graduado de Full Stack Developer en HENRY. 
 
