@@ -13,7 +13,7 @@ Mi experiencia laboral ha sido en el ámbito académico, mas precisamente como T
 
 Mi experiencia académica, por otro lado, me dejo muchas cosas buenas también, tanto a nivel individual como grupal, aprendí tecnologías como: Javascript, React, Node JS, Express, PostgreSQL, Sequelize. A nivel habilidades blandas también fue fructífero, considero que me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo. 
 
-Ahora mismo estoy totalmente sumergido en este hermoso mundo, sigo capacitándome día a día con el objetivo de mejorar, la programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer empleo como desarrollador Full-Stack, Frontend o Backend. 
+Ahora mismo estoy totalmente sumergido en este hermoso mundo, sigo capacitándome día a día con el objetivo de mejorar, la programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer trabajo como desarrollador Full-Stack, Frontend o Backend. 
 
 Nada mas que contar por ahora, si te interesa mi perfil te dejo mis datos de contacto: 
 
