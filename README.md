@@ -9,7 +9,7 @@ Graduado de Full Stack Developer en HENRY.
 
 Mi experiencia 📃 
 
-Mi experiencia laboral ha sido en el ámbito académico, mas precisamente como Teaching Assistant de un grupo de estudiantes en el que tuve la tarea de guiarlos y orientarlos en el transcurso de la cursada y asistir a la resolución de ejercicios entre otras cosas. Esta experiencia fue muy gratificante a nivel personal y también a nivel profesional ya que considero que me ayudo a potenciar mis habilidades blandas como el liderazgo. 
+Mi experiencia laboral ha sido en el ámbito académico, mas precisamente como Teaching Assistant de un grupo de estudiantes en el que tuve la tarea de guiarlos, orientarlos en el transcurso de la cursada y asistir a la resolución de ejercicios entre otras cosas. Esta experiencia fue muy gratificante a nivel personal y también a nivel profesional ya que considero que me ayudo a potenciar mis habilidades blandas como el liderazgo. 
 
 Mi experiencia académica, por otro lado, me dejo muchas cosas buenas también, tanto a nivel individual como grupal, aprendí tecnologías como: Javascript, React, Node JS, Express, PostgreSQL, Sequelize. A nivel habilidades blandas también fue fructífero, considero que me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo. 
 
@@ -21,9 +21,7 @@ Portfolio: emanuelsaucedo.tech
 
 Gmail: emanuelsaucedotj@gmail.com
 
-Tel: +54 9 1151806099
-
-Buen día, buenas tardes o en su defecto, ¡buenas noches! </h3>
+Tel: +54 9 1151806099</h3>
 
 ```javascript
 const aboutMe = {
