@@ -3,7 +3,27 @@
 
 <h1 align="center">Hola 👋, Soy Emanuel Saucedo</h1>
 
-<h3 align="center">Con formación tanto en el Frontend como en el Backend y experiencia trabajando en Node JS, React, Redux, SQL entre otras tecnologías del sector. Lideré el diseño de un E-commerce de productos tecnológicos usando herramientas como Figma y Chakra UI. Me considero una persona creativa, con buena comunicación, predisposición al trabajo en equipo y que siempre que pueda ayudar en algo para potenciar a sus compañeros lo va a hacer. </h3>
+<h3 align="center">Hola! 👋 soy Ema 
+
+Graduado de Full Stack Developer en HENRY. 
+
+Mi experiencia 📃 
+
+Mi experiencia laboral ha sido en el ámbito académico, mas precisamente como Teaching Assistant de un grupo de estudiantes en el que tuve la tarea de guiarlos y orientarlos en el transcurso de la cursada y asistir a la resolución de ejercicios entre otras cosas. Esta experiencia fue muy gratificante a nivel personal y también a nivel profesional ya que considero que me ayudo a potenciar mis habilidades blandas como el liderazgo. 
+
+Mi experiencia académica, por otro lado, me dejo muchas cosas buenas también, tanto a nivel individual como grupal, aprendí tecnologías como: Javascript, React, Node JS, Express, PostgreSQL, Sequelize. A nivel habilidades blandas también fue fructífero, considero que me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo. 
+
+Ahora mismo estoy totalmente sumergido en este hermoso mundo, sigo capacitándome día a día con el objetivo de mejorar, la programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer empleo como desarrollador Full-Stack, Frontend o Backend. 
+
+Nada mas que contar por ahora, si te interesa mi perfil te dejo mis datos de contacto: 
+
+Portfolio: emanuelsaucedo.tech 
+
+Gmail: emanuelsaucedotj@gmail.com
+
+Tel: +54 9 1151806099
+
+Buen día, buenas tardes o en su defecto, ¡buenas noches! </h3>
 
 ```javascript
 const aboutMe = {
