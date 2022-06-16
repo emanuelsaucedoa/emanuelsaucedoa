@@ -5,15 +5,11 @@
 
 <h3 align="center">
 
-Graduado de Full Stack Developer en HENRY. 
+Tengo conocimientos en Javascript, React, Node JS, Express, PostgreSQL, Sequelize, y siempre tengo interés de seguir capacitándome aprendiendo nuevas tecnologías.
 
-Mi experiencia 📃 
+Mi mayor experiencia la tuve en el ámbito académico como Teaching Assistant. Guié un grupo de estudiantes, asistiendo y orientándolos en el transcurso de la cursada, a la resolución de ejercicios, entre otras cosas. Esta experiencia fue muy gratificante y me ayudo a potenciar mis habilidades blandas como el liderazgo, me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo.
 
-Mi experiencia laboral ha sido en el ámbito académico, mas precisamente como Teaching Assistant de un grupo de estudiantes en el que tuve la tarea de guiarlos, orientarlos en el transcurso de la cursada y asistir a la resolución de ejercicios entre otras cosas. Esta experiencia fue muy gratificante a nivel personal y también a nivel profesional ya que considero que me ayudo a potenciar mis habilidades blandas como el liderazgo. 
-
-Mi experiencia académica, por otro lado, me dejo muchas cosas buenas también, tanto a nivel individual como grupal, aprendí tecnologías como: Javascript, React, Node JS, Express, PostgreSQL, Sequelize. A nivel habilidades blandas también fue fructífero, considero que me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo. 
-
-Ahora mismo estoy totalmente sumergido en este hermoso mundo, sigo capacitándome día a día con el objetivo de mejorar, la programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer trabajo como desarrollador Full-Stack, Frontend o Backend. 
+Ahora mismo estoy totalmente sumergido en este hermoso mundo IT y sigo capacitándome día a día con el objetivo de mejorar. La programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer trabajo como desarrollador Full-Stack, Frontend o Backend.
 
 Nada mas que contar por ahora, si te interesa mi perfil te dejo mis datos de contacto: 
 
