@@ -5,15 +5,17 @@
 
 <h3 align="center">
 
-Tengo conocimientos en Javascript, React, Node JS, Express, PostgreSQL, Sequelize, y siempre tengo interés de seguir capacitándome aprendiendo nuevas tecnologías.
+Tengo conocimientos en JavaScript, ReactJS, Redux, NodeJS, ExpressJS, PostgreSQL, entre otras tecnologías del sector.
 
-Mi mayor experiencia la tuve en el ámbito académico como Teaching Assistant. Guié un grupo de estudiantes, asistiendo y orientándolos en el transcurso de la cursada, a la resolución de ejercicios, entre otras cosas. Esta experiencia fue muy gratificante y me ayudo a potenciar mis habilidades blandas como el liderazgo, me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo.
+Mi mayor experiencia la tuve en el ámbito académico como Teaching Assistant. Guié un grupo de estudiantes, orientándolos en el transcurso de la cursada y asistiéndolos a la resolución de ejercicios, entre otras cosas. Esta experiencia fue muy gratificante y me ayudo a potenciar mis habilidades blandas, me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo.
 
 Ahora mismo estoy totalmente sumergido en este hermoso mundo IT y sigo capacitándome día a día con el objetivo de mejorar. La programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer trabajo como desarrollador Full-Stack, Frontend o Backend.
 
 Nada mas que contar por ahora, si te interesa mi perfil te dejo mis datos de contacto: 
 
 Portfolio: emanuelsaucedo.tech 
+
+Linkedin: linkedin.com/in/emanuelsaucedo
 
 Gmail: emanuelsaucedotj@gmail.com
 
