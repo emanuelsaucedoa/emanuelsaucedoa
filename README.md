@@ -7,18 +7,14 @@
 
 Tengo conocimientos en JavaScript, ReactJS, Redux, NodeJS, ExpressJS, PostgreSQL, entre otras tecnologías del sector.
 
-Mi mayor experiencia la tuve en el ámbito académico como Teaching Assistant. Guié un grupo de estudiantes, orientándolos en el transcurso de la cursada y asistiéndolos a la resolución de ejercicios, entre otras cosas. Esta experiencia fue muy gratificante y me ayudo a potenciar mis habilidades blandas, me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo.
+Ahora mismo estoy trabajando como Full Stack Developer en una empresa que se llama Teknaria y soy Tutor en Coderhouse, en el curso de Programacion Backend.
 
-Ahora mismo estoy totalmente sumergido en este hermoso mundo IT y sigo capacitándome día a día con el objetivo de mejorar. La programación se volvió una de mis grandes pasiones y ando en búsqueda de mi primer trabajo como desarrollador Full-Stack, Frontend o Backend.
+Tambien tuve experiencia como Teaching Assistant. Guié un grupo de estudiantes, orientándolos en el transcurso de la cursada y asistiéndolos a la resolución de ejercicios, entre otras cosas. Esta experiencia fue muy gratificante y me ayudo a potenciar mis habilidades blandas, me volví una persona mas dedicada, con una mejor inteligencia emocional, potencié mi creatividad, mi comunicación y mi capacidad de liderar un grupo.
 
-Nada mas que contar por ahora, si te interesa mi perfil te dejo mis datos de contacto: 
+Nada mas que contar por ahora, si te interesó mi perfil te dejo mis datos de contacto:
 
-Portfolio: emanuelsaucedo.tech 
-
-Linkedin: linkedin.com/in/emanuelsaucedo
-
+Linkedin: linkedin.com/in/emanuelsaucedo/
 Gmail: emanuelsaucedotj@gmail.com
-
 Tel: +54 9 1151806099</h3>
 
 ```javascript
@@ -35,6 +31,6 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["undefined"],
+   currentOccupation: ["Full Stack Developer"],
 };
 ```
