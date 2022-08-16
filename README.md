@@ -14,7 +14,9 @@ Tambien tuve experiencia como Teaching Assistant. Guié un grupo de estudiantes,
 Nada mas que contar por ahora, si te interesó mi perfil te dejo mis datos de contacto:
 
 Linkedin: linkedin.com/in/emanuelsaucedo/
+
 Gmail: emanuelsaucedotj@gmail.com
+
 Tel: +54 9 1151806099</h3>
 
 ```javascript
