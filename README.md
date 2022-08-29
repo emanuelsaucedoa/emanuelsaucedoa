@@ -17,7 +17,7 @@ Linkedin: linkedin.com/in/emanuelsaucedo/
 
 Gmail: emanuelsaucedotj@gmail.com
 
-Tel: +54 9 1151806099</h3>
+Tel: +54 9 1151121854</h3>
 
 ```javascript
 const aboutMe = {
