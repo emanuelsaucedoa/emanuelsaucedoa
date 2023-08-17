@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-## 🖥️ Languages and Tools I've worked with:
+## 🖥️ Languages and Tools I work with:
 
 - <h3>👀 Frontend:</h3>
 
