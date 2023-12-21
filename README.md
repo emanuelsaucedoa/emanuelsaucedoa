@@ -2,8 +2,8 @@
 
 - 🧔🏻 I'm 28 years old and I'm from Buenos Aires, Argentina.
 - 🎓 I graduated as a Full Stack Developer at [Henry](https://www.soyhenry.com/).
-<!-- - 🌐 Checkout my [Portfolio]('url del portfolio') to find out more about me and my projects. -->
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/emanuelsaucedo/) or [E-Mail](mailto:emanuelsaucedotj@gmail.com).
+<!-- - 🌐 Checkout my [Portfolio]('url del portfolio') to find out more about me and my projects. -->
 
 <br/>
 <br/>
